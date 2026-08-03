@@ -70,7 +70,8 @@ body{
 /* SAIZ PHONE */
 
 .page{
-    width:430px;
+    width:100%;
+    max-width:430px;
     min-height:764px;
     margin:0 auto;
     position:relative;
