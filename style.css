@@ -102,7 +102,7 @@ body{
     width:430px;
     height:2000px;
     position:relative;
-    overflow:hidden;
+    overflow-x:hidden;
     scroll-snap-align:start;
 }
 
