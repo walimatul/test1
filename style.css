@@ -98,6 +98,7 @@ body{
 /* KHAS PAGE 2 */
 
 .page-2{
+    overflow-x:hidden;
     width:430px;
     height:2000px;
     position:relative;
