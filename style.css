@@ -129,6 +129,8 @@ img{
 
 .leaf-decoration{
 
+    display:none !important;
+
     position:fixed;
 
     overflow:visible;
