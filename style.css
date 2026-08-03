@@ -98,12 +98,12 @@ body{
 /* KHAS PAGE 2 */
 
 .page-2{
-    overflow-x:hidden;
-    width:430px;
+    width:100%;
+    max-width:430px;
     height:2000px;
+    margin:0 auto;
     position:relative;
     overflow-x:hidden;
-    scroll-snap-align:start;
 }
 
 
