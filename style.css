@@ -253,8 +253,8 @@ img{
 
 .text2{
     position:absolute;
-    width:104%;
-    left:-3px;
+    width:100%;
+    left:-0px;
     top:-50px;
     z-index:2;
     opacity:1 !important;
