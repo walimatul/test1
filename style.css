@@ -261,63 +261,54 @@ img{
     font-family:"Brilyan Rogale DEMO VERSION";
 }
 
+/* PAGE 2 TEXT DOA LOVE */
 
-.doa1{
+.doa1,
+.doa2,
+.doa3,
+.doa4{
     width:352px;
-    top:300px;
     left:0px;
     z-index:2;
-    
 }
 
+.doa1{
+    top:300px;
+}
 
 .doa2{
-    width:352px;
-    top:300px;
-    left:0px;
-    z-index:2;
-    
+    top:430px;
 }
 
 .doa3{
-    width:352px;
-    top:300px;
-    left:0px;
-    z-index:2;
-    
+    top:560px;
 }
 
 .doa4{
-    width:352px;
-    top:300px;
-    left:0px;
-    z-index:2;
-    
+    top:690px;
 }
 
 
-.love1{
-    width:352px;
-    top:450px;
-    left:0px;
+.love1,
+.love2,
+.love3{
+    width:100px;
     z-index:2;
-    
+}
+
+.love1{
+    top:450px;
+    left:160px;
 }
 
 .love2{
-    width:352px;
-    top:450px;
-    left:0px;
-    z-index:2;
-    
+    top:600px;
+    left:160px;
 }
 
 .love3{
-    width:352px;
-    top:450px;
-    left:0px;
-    z-index:2;
-   
+    top:750px;
+    left:160px;
 }
 
 
