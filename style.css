@@ -292,7 +292,8 @@ img{
 .love1,
 .love2,
 .love3{
-    width:100px;
+    width:352px;
+    left:0px;
     z-index:2;
 }
 
