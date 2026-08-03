@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_12_sept1" data-name="12 sept1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-3 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-4, .cls-2 {
+        font-size: 31.25px;
+      }
+
+      .cls-4, .cls-2, .cls-5 {
+        fill: #584b3b;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #584b3b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        font-family: AbrilFatface-Regular, 'Abril Fatface';
+        font-size: 123.73px;
+      }
+    </style>
+  </defs>
+  <line class="cls-6" x1="460.59" y1="1464.79" x2="143.31" y2="1464.79"/>
+  <line class="cls-6" x1="935.89" y1="1464.79" x2="618.61" y2="1464.79"/>
+  <text class="cls-5" transform="translate(488.46 1476.46)"><tspan x="0" y="0">12</tspan></text>
+  <line class="cls-6" x1="460.59" y1="1404.14" x2="143.31" y2="1404.14"/>
+  <line class="cls-6" x1="935.89" y1="1404.14" x2="618.61" y2="1404.14"/>
+  <text class="cls-2" transform="translate(205.11 1444.29)"><tspan x="0" y="0">SEPTEMBER</tspan></text>
+  <text class="cls-4" transform="translate(386.15 1558)"><tspan class="cls-3"><tspan x="0" y="0">UMMIE EVENT HALL</tspan></tspan><tspan class="cls-1"><tspan x="-39.12" y="37.5">PASIR PUTEH, KELANTAN</tspan></tspan></text>
+  <text class="cls-2" transform="translate(743.8 1444.29)"><tspan x="0" y="0">2026</tspan></text>
+</svg>
