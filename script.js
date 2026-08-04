@@ -36,6 +36,8 @@ button.addEventListener("click",()=>{
 
 
 
+    // UNLOCK SCROLL
+    document.documentElement.style.overflowY="auto";
     document.body.style.overflowY="auto";
 
 
@@ -67,7 +69,6 @@ button.addEventListener("click",()=>{
 
 
 });
-
 
 
 
