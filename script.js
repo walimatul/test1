@@ -37,8 +37,8 @@ button.addEventListener("click",()=>{
 
 
     // UNLOCK SCROLL
-    document.documentElement.style.overflowY="auto";
-    document.body.style.overflowY="auto";
+    document.body.classList.remove("lock-scroll");
+    document.documentElement.classList.remove("lock-scroll");
 
 
 
