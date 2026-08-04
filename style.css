@@ -249,35 +249,30 @@ img{
 }
 
 
-/* PAGE 2 TEXT */
-
-.text2{
-    position:absolute;
-    width:100%;
-    left:-0px;
-    top:-50px;
-    z-index:2;
-    opacity:1 !important;
-    font-family:"Brilyan Rogale DEMO VERSION";
-}
-
 /* ==========================
    PAGE 2 TEXT DOA LOVE
 ========================== */
 
 
+/* BOX PARENT */
+
+.doa-box,
+.love-box{
+
+    position:absolute;
+
+}
+
+
 /* DOA */
 
-.doa1,
-.doa2,
-.doa3,
-.doa4{
+.doa{
 
     position:absolute;
 
     width:352px;
 
-    left:39px;
+    left:4px;
 
     z-index:2;
 
@@ -285,37 +280,35 @@ img{
 
 
 .doa1{
-    top:930px;
+    top:30px;
 }
 
 
 .doa2{
-    top:1030px;
+    top:130px;
 }
 
 
 .doa3{
-    top:1130px;
+    top:230px;
 }
 
 
 .doa4{
-    top:1230px;
+    top:330px;
 }
 
 
 
 /* LOVE */
 
-.love1,
-.love2,
-.love3{
+.love{
 
     position:absolute;
 
     width:352px;
 
-    left:39px;
+    left:4px;
 
     z-index:2;
 
@@ -323,32 +316,52 @@ img{
 
 
 .love1{
-    top:1530px;
+    top:40px;
 }
 
 
 .love2{
-    top:1680px;
+    top:190px;
 }
 
 
 .love3{
-    top:1830px;
+    top:340px;
 }
+
+
 
 /* =========================
    GLASS BOX DOA & LOVE
 ========================= */
 
 .doa-box{
+
     top:900px;
+
+    left:50%;
+
+    transform:translateX(-50%);
+
+    width:360px;
+
     height:420px;
+
 }
 
 
 .love-box{
+
     top:1480px;
+
+    left:50%;
+
+    transform:translateX(-50%);
+
+    width:360px;
+
     height:450px;
+
 }
 
 
