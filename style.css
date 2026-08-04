@@ -44,7 +44,9 @@ html{
 
 
 body{
+
     margin:0;
+
     min-height:100%;
 
     background:
@@ -55,18 +57,29 @@ body{
     );
 
     overflow-x:hidden;
-    overflow-y:hidden;
 
     scroll-snap-type:y mandatory;
 
     display:flex;
+
     flex-direction:column;
+
     align-items:center;
 
     -webkit-font-smoothing:antialiased;
 }
 
+
 body.lock-scroll{
+
+    overflow-y:hidden;
+
+    height:100vh;
+
+}
+
+
+html.lock-scroll{
 
     overflow:hidden;
 
